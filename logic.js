@@ -1,4 +1,4 @@
 
-function getPerson(name, surname) {
-	return name + " " + surname;
+function getPerson(firstname, lastname) {
+	return firstname + " " + lastname;
 }
